@@ -10,7 +10,7 @@ python3 -m pip install -U discord.py
 # Windows
 py -3 -m pip install -U discord.py
 
-#
+
 #Otherwise to get voice support you should run the following command:
 
 # Linux/macOS
