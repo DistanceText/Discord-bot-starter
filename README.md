@@ -18,6 +18,3 @@ python3 -m pip install -U "discord.py[voice]"
 
 # Windows
 py -3 -m pip install -U discord.py[voice]
-To install the development version, do the following:
-
-also install ffmpeg
