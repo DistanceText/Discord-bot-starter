@@ -19,5 +19,8 @@ async def on_ready():
     print('Bot is now working! started at: ', str(datetime.datetime.now))
     print('--------------------------------------------------------------')
 
+@client.command()
+async def hello(ctx):
+    ctx.reply("Hi!")
 
 client.run('YOUR TOKEN GOES HERE')
